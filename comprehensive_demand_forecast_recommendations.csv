@@ -1,0 +1,31 @@
+Date,Weekday,Predicted_Demand,Safety_Stock,Recommended_Stock,Priority,Alert,Confidence,Forecast_Source
+2025-01-01,Wednesday,391.0,59.0,450.0,Low,Monitor Stock Level,High,ARIMA + LSTM Ensemble
+2025-01-02,Thursday,397.0,119.0,517.0,High,Urgent - High Demand Expected,High,ARIMA + LSTM Ensemble
+2025-01-03,Friday,397.0,119.0,516.0,High,Urgent - High Demand Expected,High,ARIMA + LSTM Ensemble
+2025-01-04,Saturday,396.0,119.0,514.0,High,Urgent - High Demand Expected,High,ARIMA + LSTM Ensemble
+2025-01-05,Sunday,395.0,59.0,454.0,Low,Monitor Stock Level,High,ARIMA + LSTM Ensemble
+2025-01-06,Monday,394.0,59.0,453.0,Low,Monitor Stock Level,High,ARIMA + LSTM Ensemble
+2025-01-07,Tuesday,393.0,59.0,453.0,Low,Monitor Stock Level,High,ARIMA + LSTM Ensemble
+2025-01-08,Wednesday,395.0,79.0,474.0,Medium,Normal Restock Required,High,ARIMA + LSTM Ensemble
+2025-01-09,Thursday,395.0,79.0,474.0,Medium,Normal Restock Required,High,ARIMA + LSTM Ensemble
+2025-01-10,Friday,395.0,79.0,474.0,Medium,Normal Restock Required,High,ARIMA + LSTM Ensemble
+2025-01-11,Saturday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-12,Sunday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-13,Monday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-14,Tuesday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-15,Wednesday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-16,Thursday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-17,Friday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-18,Saturday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-19,Sunday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-20,Monday,395.0,59.0,454.0,Low,Monitor Stock Level,Medium,ARIMA + LSTM Ensemble
+2025-01-21,Tuesday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-22,Wednesday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-23,Thursday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-24,Friday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-25,Saturday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-26,Sunday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-27,Monday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-28,Tuesday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-29,Wednesday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble
+2025-01-30,Thursday,395.0,59.0,454.0,Low,Monitor Stock Level,Low,ARIMA + LSTM Ensemble

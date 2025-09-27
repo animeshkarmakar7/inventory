@@ -1,0 +1,31 @@
+{
+  "analysis_date": "2025-09-27 02:43:25",
+  "data_overview": {
+    "total_records": 5000,
+    "date_range": "2024-01-01 to 2024-12-31",
+    "unique_brands": 4,
+    "unique_locations": 3,
+    "total_demand": 141954,
+    "avg_daily_demand": 28.4
+  },
+  "forecasting_results": {
+    "models_used": [],
+    "forecast_period": "30 days",
+    "high_priority_items": 3,
+    "anomalies_detected": 102
+  },
+  "key_insights": [
+    "Peak demand month: April (avg: 31.2 units)",
+    "Top brand: Brand B with 37927 total units sold",
+    "Best performing location: Depot 1 (avg: 28.7 units)",
+    "Highest demand day: Saturday (avg: 30.4 units)",
+    "Low stock turnover: 0.65 (consider reducing stock levels)",
+    "Dominant transaction type: Sale (35.4% of total)",
+    "Moderate demand variability (CV: 0.81) - current safety stocks adequate"
+  ],
+  "recommendations_summary": {
+    "total_recommendations": 30,
+    "urgent_actions": 3,
+    "avg_recommended_stock": 462.0
+  }
+}
